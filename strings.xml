@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CV Builder App</string>
+    <string name="welcomeMssg">Welcome to CV Builder, Designed by Me!</string>
+    <string name="rollNo">Roll No</string>
+    <string name="name">Full Name</string>
+    <string name="cgpa">CGPA</string>
+    <string name="degree">Degree</string>
+    <string name="gender">Gender</string>
+    <string name="DOB">Date of Birth</string>
+    <string name="career_interests">Career Interests</string>
+    <string name="generateCV">Generate CV</string>
+    <string name="reGenerateCV">Re-Generate CV</string>
+
+</resources>
